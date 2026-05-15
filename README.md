@@ -21,5 +21,5 @@ The primary objective is to monitor high-level sales KPIs and deliver deep produ
 * **UI/UX Engineering:** Modern canvas layout featuring sleek visual hierarchies, custom tooltips, and seamless slicer navigations.
 
 ## 📊 Dashboard Preview
-![BMW Dashboard Preview](<img width="1914" height="974" alt="dashboard" src="https://github.com/user-attachments/assets/2db7f937-f528-464f-8fbc-2796044f9e1e" />
-)
+<img width="1914" height="974" alt="dashboard" src="https://github.com/user-attachments/assets/aad78724-b799-4c1d-a408-769846aa4d91" />
+
